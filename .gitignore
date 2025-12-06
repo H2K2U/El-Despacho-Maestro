@@ -32,6 +32,15 @@ MANIFEST
 *.manifest
 *.spec
 
+# Build artifacts
+*.exe
+*.zip
+*.nupkg
+*.msi
+/dist/
+/build/
+/output/
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
