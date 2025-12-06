@@ -40,5 +40,8 @@
 - [Алгоритмы оптимизации](docs/ALGORITHMS.md)
 - [Валидация и тесты](docs/VALIDATION.md)
 
+## Скачать установщик (Windows):
+https://github.com/H2K2U/El-Despacho-Maestro/releases/latest
+
 ## Лицензия
 Лицензия не указана. При необходимости добавьте файл LICENSE.
